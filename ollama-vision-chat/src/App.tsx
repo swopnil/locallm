@@ -368,7 +368,7 @@ function App() {
                 <Sparkles className="w-6 h-6" />
               </motion.div>
               <div>
-                <h1 className="text-2xl font-bold">Ollama AI Chat</h1>
+                <h1 className="text-2xl font-bold">Swopnil AI Chat</h1>
                 {isLoadingModels ? (
                   <p className="text-white/80 text-sm">Setting up AI models...</p>
                 ) : models.length > 0 ? (
